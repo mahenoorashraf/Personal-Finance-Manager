@@ -62,6 +62,8 @@ VS Code
 
 GitHub
 📂 **Project Structure**
+
+
 Finance_Manager_Project
 │
 ├── main.py
@@ -82,6 +84,7 @@ Finance_Manager_Project
 │   └── csv_data.png
 │
 └── README.md
+
 📸 ** Screenshots**
 Screenshots of program execution and outputs are available in the screenshots folder.
 
@@ -92,6 +95,7 @@ Adding Expense
 Reports Output
 
 CSV Stored Data
+
 **Sample CSV Data**
 Date,Category,Amount,Description
 2025-10-09,Travel,20000,Air Ticket
