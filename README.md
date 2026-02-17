@@ -102,6 +102,7 @@ Date,Category,Amount,Description
 2026-01-18,Food,80,Maggie
 
 **🚀 How to Run the Project**
+
 Step 1 — Clone Repository
 git clone <repository link>
 Step 2 — Open Project Folder
@@ -110,6 +111,7 @@ Step 3 — Run Program
 python main.py
 
 **🎯 Learning Outcomes**
+
 Through this project, I learned:
 
 Python programming fundamentals
@@ -123,8 +125,11 @@ Modular coding structure
 GitHub project deployment
 
 **👩‍💻 Author**
+
 Mahenoor Ashraf
+
 Python Developer Intern
+
 Developers Arena
 
 **📌 Future Improvements**
