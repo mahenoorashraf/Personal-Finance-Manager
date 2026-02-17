@@ -133,7 +133,7 @@ GitHub project deployment
 
 Mahenoor Ashraf
 
-Python Developer Intern
+Data Science Intern
 
 Developers Arena
 
