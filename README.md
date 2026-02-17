@@ -104,10 +104,15 @@ Date,Category,Amount,Description
 **🚀 How to Run the Project**
 
 Step 1 — Clone Repository
-git clone <repository link>
+
+git clone <repository https://github.com/mahenoorashraf/Personal-Finance-Manager.git>
+
 Step 2 — Open Project Folder
+
 cd Finance_Manager_Project
+
 Step 3 — Run Program
+
 python main.py
 
 **🎯 Learning Outcomes**
